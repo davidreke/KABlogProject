@@ -1,0 +1,12 @@
+.container {
+    background-color:   white;
+    min-height: 100vh;
+}
+
+body {
+    background-color: salmon;
+}
+
+.post {
+    margin-bottom: 20px;
+}
